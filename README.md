@@ -1,1 +1,3 @@
-# Fall_mats
+# Fall Detection System Using Pressure Mat Simulation
+
+This project replicates the functionality of pressure mats using Tinkercad sensors to create an energy-efficient, motion-activated system for monitoring and fall detection. The system is designed to detect changes in force and movement, ensuring continuous safety assessment in critical spaces such as bathrooms and bedrooms. By activating only when movement is detected, the setup reduces energy consumption while providing real-time monitoring for individuals, particularly seniors or those with disabilities, in healthcare or home care environments.
